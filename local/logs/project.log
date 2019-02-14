@@ -1,0 +1,53 @@
+2019-02-14T07:02:26.181Z - normal: Load ~/.CocosCreator/settings.json
+2019-02-14T07:02:26.183Z - normal: checking language setting...
+2019-02-14T07:02:26.183Z - normal: Language: zh
+2019-02-14T07:02:26.960Z - success: protocol editor-framework registered
+2019-02-14T07:02:26.960Z - success: protocol app registered
+2019-02-14T07:02:26.960Z - success: protocol theme registered
+2019-02-14T07:02:26.960Z - success: protocol packages registered
+2019-02-14T07:02:26.960Z - success: protocol unpack registerred
+2019-02-14T07:02:26.961Z - success: protocol disable-commonjs registerred
+2019-02-14T07:02:27.161Z - normal: connected!
+2019-02-14T07:02:27.161Z - normal: Check project /Work/cccProj/Snake
+2019-02-14T07:02:27.163Z - normal: Initializing Cocos2d
+2019-02-14T07:02:27.303Z - normal: Initializing Asset Database
+2019-02-14T07:02:27.364Z - success: protocol uuid registerred
+2019-02-14T07:02:27.364Z - success: protocol db registerred
+2019-02-14T07:02:27.365Z - success: protocol thumbnail registerred
+2019-02-14T07:02:27.365Z - normal: Loading editor/builtin packages
+2019-02-14T07:02:27.409Z - success: anysdk loaded
+2019-02-14T07:02:27.605Z - success: assets loaded
+2019-02-14T07:02:27.625Z - success: builder loaded
+2019-02-14T07:02:27.626Z - success: cocos-analytics loaded
+2019-02-14T07:02:27.631Z - success: console loaded
+2019-02-14T07:02:27.666Z - success: fb-instant-games loaded
+2019-02-14T07:02:27.671Z - success: hierarchy loaded
+2019-02-14T07:02:27.676Z - success: inspector loaded
+2019-02-14T07:02:27.678Z - success: keystore loaded
+2019-02-14T07:02:27.686Z - success: node-library loaded
+2019-02-14T07:02:27.687Z - success: package-asset loaded
+2019-02-14T07:02:27.690Z - success: preferences loaded
+2019-02-14T07:02:27.693Z - success: project-exporter loaded
+2019-02-14T07:02:27.713Z - success: project-importer loaded
+2019-02-14T07:02:27.718Z - success: project-settings loaded
+2019-02-14T07:02:27.737Z - success: ui-kit loaded
+2019-02-14T07:02:27.742Z - success: ui-grid loaded
+2019-02-14T07:02:27.747Z - success: scene loaded
+2019-02-14T07:02:27.749Z - success: sprite-editor loaded
+2019-02-14T07:02:27.752Z - success: store loaded
+2019-02-14T07:02:27.759Z - success: timeline loaded
+2019-02-14T07:02:27.759Z - normal: Loading builtin packages
+2019-02-14T07:02:27.770Z - success: asset-db-debugger loaded
+2019-02-14T07:02:27.771Z - success: color-picker loaded
+2019-02-14T07:02:27.774Z - success: package-manager loaded
+2019-02-14T07:02:27.858Z - success: sdkbox loaded
+2019-02-14T07:02:27.863Z - success: tester loaded
+2019-02-14T07:02:27.867Z - success: ui-kit-preview-extra loaded
+2019-02-14T07:02:27.870Z - success: ui-kit-preview loaded
+2019-02-14T07:02:27.891Z - success: ui-tree loaded
+2019-02-14T07:02:28.590Z - normal: Initializing project /Work/cccProj/Snake
+2019-02-14T07:02:28.596Z - normal: Loading packages
+2019-02-14T07:02:28.600Z - normal: Watching packages
+2019-02-14T07:02:28.608Z - normal: Run Application
+2019-02-14T07:02:29.688Z - success: preview server running at http://localhost:7456
+2019-02-14T07:02:33.508Z - normal: 1.9.1

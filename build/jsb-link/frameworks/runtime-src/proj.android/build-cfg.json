@@ -1,0 +1,29 @@
+{
+    "ndk_module_path" :[
+        "/Work/devTools/cocos2d-x-lite",
+        "/Work/devTools/cocos2d-x-lite/cocos",
+        "/Work/devTools/cocos2d-x-lite/external"
+    ],
+    "copy_resources": [
+        {
+            "from": "../../../src",
+            "to": "src"
+        },
+        {
+            "from": "../../../res",
+            "to": "res"
+        },
+        {
+            "from": "../../../main.js",
+            "to": ""
+        },
+        {
+            "from": "/Work/devTools/cocos2d-x-lite/cocos/scripting/js-bindings/script",
+            "to": "script"
+        },
+        {
+            "from": "../../../project.json",
+            "to": ""
+        }
+    ]
+}
