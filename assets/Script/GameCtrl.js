@@ -33,6 +33,8 @@
  *  0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
  */
 
+let GameTools = require("./GameTools");
+
 cc.Class({
     extends: cc.Component,
 
@@ -209,12 +211,14 @@ cc.Class({
             this.draw(v, cc.Color.RED);
         });
 
-        this.scheduleOnce(()=>{
-            this.overLayer.active = true;
-        }, 1);
-
         let best = cc.sys.localStorage.getItem("best_score");
         cc.sys.localStorage.setItem("best_score", this.s>best?this.s:best);
+        GameTools.pushScore(this.s>best?this.s:best);
+
+        this.scheduleOnce(()=>{
+            this.overLayer.active = true;
+            this.overLayer.getComponent("GameOverCtrl").getRank();
+        }, 1);
     },
 
     addScore(s){

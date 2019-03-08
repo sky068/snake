@@ -1,53 +1,3129 @@
-2019-02-14T07:02:26.181Z - normal: Load ~/.CocosCreator/settings.json
-2019-02-14T07:02:26.183Z - normal: checking language setting...
-2019-02-14T07:02:26.183Z - normal: Language: zh
-2019-02-14T07:02:26.960Z - success: protocol editor-framework registered
-2019-02-14T07:02:26.960Z - success: protocol app registered
-2019-02-14T07:02:26.960Z - success: protocol theme registered
-2019-02-14T07:02:26.960Z - success: protocol packages registered
-2019-02-14T07:02:26.960Z - success: protocol unpack registerred
-2019-02-14T07:02:26.961Z - success: protocol disable-commonjs registerred
-2019-02-14T07:02:27.161Z - normal: connected!
-2019-02-14T07:02:27.161Z - normal: Check project /Work/cccProj/Snake
-2019-02-14T07:02:27.163Z - normal: Initializing Cocos2d
-2019-02-14T07:02:27.303Z - normal: Initializing Asset Database
-2019-02-14T07:02:27.364Z - success: protocol uuid registerred
-2019-02-14T07:02:27.364Z - success: protocol db registerred
-2019-02-14T07:02:27.365Z - success: protocol thumbnail registerred
-2019-02-14T07:02:27.365Z - normal: Loading editor/builtin packages
-2019-02-14T07:02:27.409Z - success: anysdk loaded
-2019-02-14T07:02:27.605Z - success: assets loaded
-2019-02-14T07:02:27.625Z - success: builder loaded
-2019-02-14T07:02:27.626Z - success: cocos-analytics loaded
-2019-02-14T07:02:27.631Z - success: console loaded
-2019-02-14T07:02:27.666Z - success: fb-instant-games loaded
-2019-02-14T07:02:27.671Z - success: hierarchy loaded
-2019-02-14T07:02:27.676Z - success: inspector loaded
-2019-02-14T07:02:27.678Z - success: keystore loaded
-2019-02-14T07:02:27.686Z - success: node-library loaded
-2019-02-14T07:02:27.687Z - success: package-asset loaded
-2019-02-14T07:02:27.690Z - success: preferences loaded
-2019-02-14T07:02:27.693Z - success: project-exporter loaded
-2019-02-14T07:02:27.713Z - success: project-importer loaded
-2019-02-14T07:02:27.718Z - success: project-settings loaded
-2019-02-14T07:02:27.737Z - success: ui-kit loaded
-2019-02-14T07:02:27.742Z - success: ui-grid loaded
-2019-02-14T07:02:27.747Z - success: scene loaded
-2019-02-14T07:02:27.749Z - success: sprite-editor loaded
-2019-02-14T07:02:27.752Z - success: store loaded
-2019-02-14T07:02:27.759Z - success: timeline loaded
-2019-02-14T07:02:27.759Z - normal: Loading builtin packages
-2019-02-14T07:02:27.770Z - success: asset-db-debugger loaded
-2019-02-14T07:02:27.771Z - success: color-picker loaded
-2019-02-14T07:02:27.774Z - success: package-manager loaded
-2019-02-14T07:02:27.858Z - success: sdkbox loaded
-2019-02-14T07:02:27.863Z - success: tester loaded
-2019-02-14T07:02:27.867Z - success: ui-kit-preview-extra loaded
-2019-02-14T07:02:27.870Z - success: ui-kit-preview loaded
-2019-02-14T07:02:27.891Z - success: ui-tree loaded
-2019-02-14T07:02:28.590Z - normal: Initializing project /Work/cccProj/Snake
-2019-02-14T07:02:28.596Z - normal: Loading packages
-2019-02-14T07:02:28.600Z - normal: Watching packages
-2019-02-14T07:02:28.608Z - normal: Run Application
-2019-02-14T07:02:29.688Z - success: preview server running at http://localhost:7456
-2019-02-14T07:02:33.508Z - normal: 1.9.1
+2019-03-07T03:11:47.438Z - normal: Load ~/.CocosCreator/settings.json
+2019-03-07T03:11:47.441Z - normal: checking language setting...
+2019-03-07T03:11:47.441Z - normal: Language: zh
+2019-03-07T03:11:49.292Z - success: protocol editor-framework registered
+2019-03-07T03:11:49.292Z - success: protocol app registered
+2019-03-07T03:11:49.292Z - success: protocol theme registered
+2019-03-07T03:11:49.292Z - success: protocol packages registered
+2019-03-07T03:11:49.292Z - success: protocol unpack registerred
+2019-03-07T03:11:49.293Z - success: protocol disable-commonjs registerred
+2019-03-07T03:11:49.568Z - normal: connected!
+2019-03-07T03:11:49.569Z - normal: Check project /Work/cccProj/Snake
+2019-03-07T03:11:49.570Z - normal: Initializing Cocos2d
+2019-03-07T03:11:49.854Z - normal: Initializing Asset Database
+2019-03-07T03:11:49.917Z - success: protocol uuid registerred
+2019-03-07T03:11:49.917Z - success: protocol db registerred
+2019-03-07T03:11:49.917Z - success: protocol thumbnail registerred
+2019-03-07T03:11:49.917Z - normal: Loading editor/builtin packages
+2019-03-07T03:11:49.999Z - success: anysdk loaded
+2019-03-07T03:11:50.145Z - success: assets loaded
+2019-03-07T03:11:50.148Z - success: builder loaded
+2019-03-07T03:11:50.152Z - success: cocos-analytics loaded
+2019-03-07T03:11:50.156Z - success: console loaded
+2019-03-07T03:11:50.182Z - success: fb-instant-games loaded
+2019-03-07T03:11:50.187Z - success: hierarchy loaded
+2019-03-07T03:11:50.193Z - success: inspector loaded
+2019-03-07T03:11:50.194Z - success: keystore loaded
+2019-03-07T03:11:50.203Z - success: node-library loaded
+2019-03-07T03:11:50.205Z - success: package-asset loaded
+2019-03-07T03:11:50.208Z - success: preferences loaded
+2019-03-07T03:11:50.211Z - success: project-exporter loaded
+2019-03-07T03:11:50.231Z - success: project-importer loaded
+2019-03-07T03:11:50.234Z - success: project-settings loaded
+2019-03-07T03:11:50.237Z - success: ui-kit loaded
+2019-03-07T03:11:50.253Z - success: ui-grid loaded
+2019-03-07T03:11:50.258Z - success: scene loaded
+2019-03-07T03:11:50.260Z - success: sprite-editor loaded
+2019-03-07T03:11:50.263Z - success: store loaded
+2019-03-07T03:11:50.270Z - success: timeline loaded
+2019-03-07T03:11:50.270Z - normal: Loading builtin packages
+2019-03-07T03:11:50.276Z - success: asset-db-debugger loaded
+2019-03-07T03:11:50.277Z - success: color-picker loaded
+2019-03-07T03:11:50.280Z - success: package-manager loaded
+2019-03-07T03:11:50.342Z - success: sdkbox loaded
+2019-03-07T03:11:50.351Z - success: tester loaded
+2019-03-07T03:11:50.354Z - success: ui-kit-preview-extra loaded
+2019-03-07T03:11:50.357Z - success: ui-kit-preview loaded
+2019-03-07T03:11:50.359Z - success: ui-tree loaded
+2019-03-07T03:11:51.713Z - normal: Initializing project /Work/cccProj/Snake
+2019-03-07T03:11:51.719Z - normal: Loading packages
+2019-03-07T03:11:51.724Z - normal: Watching packages
+2019-03-07T03:11:51.733Z - normal: Run Application
+2019-03-07T03:11:53.312Z - success: preview server running at http://localhost:7456
+2019-03-07T03:11:57.538Z - normal: 1.9.1
+2019-03-07T03:12:54.603Z - normal: Simulator: WORKAREA WIDTH 2048.00, HEIGHT 1038.00
+2019-03-07T03:12:54.643Z - normal: Simulator: FRAME SCALE = 1.00
+2019-03-07T03:12:54.657Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-03-07T03:12:54.739Z - normal: Simulator: 
+2019-03-07T03:12:54.740Z - normal: Simulator: {
+2019-03-07T03:12:54.740Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2019-03-07T03:12:54.740Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2019-03-07T03:12:54.741Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2019-03-07T03:12:54.741Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2019-03-07T03:12:54.741Z - normal: Simulator: 	gl.supports_PVRTC: false
+2019-03-07T03:12:54.741Z - normal: Simulator: 	gl.renderer: AMD Radeon Pro 570 OpenGL Engine
+2019-03-07T03:12:54.741Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2019-03-07T03:12:54.742Z - normal: Simulator: 	gl.max_texture_size: 16384
+2019-03-07T03:12:54.742Z - normal: Simulator: 	gl.supports_ETC1: false
+2019-03-07T03:12:54.742Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2019-03-07T03:12:54.742Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2019-03-07T03:12:54.742Z - normal: Simulator: 	gl.max_texture_units: 16
+2019-03-07T03:12:54.743Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2019-03-07T03:12:54.743Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2019-03-07T03:12:54.743Z - normal: Simulator: 	gl.supports_NPOT: true
+2019-03-07T03:12:54.743Z - normal: Simulator: 	gl.version: 2.1 ATI-1.68.21
+2019-03-07T03:12:54.743Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2019-03-07T03:12:54.743Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2019-03-07T03:12:54.744Z - normal: Simulator: }
+2019-03-07T03:12:54.744Z - normal: Simulator: 
+2019-03-07T03:12:54.744Z - normal: Simulator: 
+2019-03-07T03:12:54.744Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2019-03-07T03:12:54.778Z - normal: Simulator: Project Config:
+2019-03-07T03:12:54.778Z - normal: Simulator:     project dir: /Work/devTools/cocos2d-x-lite/simulator/mac/Simulator.app/Contents/Resources/
+2019-03-07T03:12:54.778Z - normal: Simulator:     writable path: $(PROJDIR)/
+2019-03-07T03:12:54.778Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2019-03-07T03:12:54.778Z - normal: Simulator:     frame size: 1280 x 720
+2019-03-07T03:12:54.778Z - normal: Simulator:     frame scale: 1.00
+2019-03-07T03:12:54.779Z - normal: Simulator:     show console: NO
+2019-03-07T03:12:54.779Z - normal: Simulator:     write debug log: NO ()
+2019-03-07T03:12:54.779Z - normal: Simulator:     listen: 
+2019-03-07T03:12:54.779Z - normal: Simulator:     debugger: none
+2019-03-07T03:12:54.779Z - normal: Simulator:     add searching path:
+2019-03-07T03:12:54.783Z - normal: Simulator: ------------------------------------------------
+2019-03-07T03:12:54.784Z - normal: Simulator: LOAD Js FILE: main.js
+2019-03-07T03:12:54.784Z - normal: Simulator: ------------------------------------------------
+2019-03-07T03:12:54.790Z - normal: Simulator: Initializing JavaScriptCore 
+2019-03-07T03:12:54.951Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2019-03-07T03:12:55.154Z - normal: Simulator: iShow!
+2019-03-07T03:12:55.357Z - normal: Simulator: JS: InitScene: 4.507000000000062ms
+2019-03-07T03:12:55.358Z - normal: Simulator: JS: AutoRelease: 0.07600000000002183ms
+2019-03-07T03:12:55.358Z - normal: Simulator: JS: Destroy: 0.043000000000006366ms
+2019-03-07T03:12:55.358Z - normal: Simulator: JS: AttachPersist: 0.004000000000019099ms
+2019-03-07T03:12:55.379Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T03:12:55.382Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T03:12:55.383Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T03:12:55.388Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T03:12:55.403Z - normal: Simulator: JS: Activate: 43.40999999999997ms
+2019-03-07T03:12:57.751Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2019-03-07T03:12:57.752Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 83
+2019-03-07T03:12:57.757Z - normal: Simulator: GC end ..., (Native -> JS map) count: 61
+2019-03-07T03:12:57.758Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 61
+2019-03-07T03:12:57.767Z - normal: Simulator: GC end ..., (Native -> JS map) count: 61
+2019-03-07T03:12:57.768Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 61
+2019-03-07T03:12:57.775Z - normal: Simulator: GC end ..., (Native -> JS map) count: 61
+2019-03-07T03:12:57.792Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2019-03-07T03:12:57.792Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2019-03-07T03:12:57.793Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2019-03-07T03:12:57.793Z - normal: Simulator: ScriptEngine::cleanup end ...
+2019-03-07T03:13:11.709Z - normal: Simulator: WORKAREA WIDTH 2048.00, HEIGHT 1038.00
+2019-03-07T03:13:11.710Z - normal: Simulator: FRAME SCALE = 0.75
+2019-03-07T03:13:11.717Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-03-07T03:13:11.780Z - normal: Simulator: 
+2019-03-07T03:13:11.780Z - normal: Simulator: {
+2019-03-07T03:13:11.780Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2019-03-07T03:13:11.781Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2019-03-07T03:13:11.781Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2019-03-07T03:13:11.781Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2019-03-07T03:13:11.781Z - normal: Simulator: 	gl.supports_PVRTC: false
+2019-03-07T03:13:11.781Z - normal: Simulator: 	gl.renderer: AMD Radeon Pro 570 OpenGL Engine
+2019-03-07T03:13:11.781Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2019-03-07T03:13:11.781Z - normal: Simulator: 	gl.max_texture_size: 16384
+2019-03-07T03:13:11.781Z - normal: Simulator: 	gl.supports_ETC1: false
+2019-03-07T03:13:11.782Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2019-03-07T03:13:11.782Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2019-03-07T03:13:11.782Z - normal: Simulator: 	gl.max_texture_units: 16
+2019-03-07T03:13:11.782Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2019-03-07T03:13:11.783Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2019-03-07T03:13:11.783Z - normal: Simulator: 	gl.supports_NPOT: true
+2019-03-07T03:13:11.783Z - normal: Simulator: 	gl.version: 2.1 ATI-1.68.21
+2019-03-07T03:13:11.783Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2019-03-07T03:13:11.784Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2019-03-07T03:13:11.784Z - normal: Simulator: }
+2019-03-07T03:13:11.784Z - normal: Simulator: 
+2019-03-07T03:13:11.784Z - normal: Simulator: 
+2019-03-07T03:13:11.784Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2019-03-07T03:13:11.801Z - normal: Simulator: Project Config:
+2019-03-07T03:13:11.802Z - normal: Simulator:     project dir: /Work/devTools/cocos2d-x-lite/simulator/mac/Simulator.app/Contents/Resources/
+2019-03-07T03:13:11.802Z - normal: Simulator:     writable path: $(PROJDIR)/
+2019-03-07T03:13:11.802Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2019-03-07T03:13:11.802Z - normal: Simulator:     frame size: 720 x 1280
+2019-03-07T03:13:11.802Z - normal: Simulator:     frame scale: 0.75
+2019-03-07T03:13:11.802Z - normal: Simulator:     show console: NO
+2019-03-07T03:13:11.802Z - normal: Simulator:     write debug log: NO ()
+2019-03-07T03:13:11.803Z - normal: Simulator:     listen: 
+2019-03-07T03:13:11.803Z - normal: Simulator:     debugger: none
+2019-03-07T03:13:11.803Z - normal: Simulator:     add searching path:
+2019-03-07T03:13:11.803Z - normal: Simulator: ------------------------------------------------
+2019-03-07T03:13:11.803Z - normal: Simulator: LOAD Js FILE: main.js
+2019-03-07T03:13:11.803Z - normal: Simulator: ------------------------------------------------
+2019-03-07T03:13:11.803Z - normal: Simulator: Initializing JavaScriptCore 
+2019-03-07T03:13:11.856Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2019-03-07T03:13:11.996Z - normal: Simulator: iShow!
+2019-03-07T03:13:12.140Z - normal: Simulator: JS: InitScene: 2.0680000000000405ms
+2019-03-07T03:13:12.140Z - normal: Simulator: JS: AutoRelease: 0.08999999999997499ms
+2019-03-07T03:13:12.140Z - normal: Simulator: JS: Destroy: 0.08899999999999864ms
+2019-03-07T03:13:12.140Z - normal: Simulator: JS: AttachPersist: 0.004000000000019099ms
+2019-03-07T03:13:12.148Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T03:13:12.150Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T03:13:12.151Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T03:13:12.153Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T03:13:12.159Z - normal: Simulator: JS: Activate: 17.064999999999998ms
+2019-03-07T03:13:17.289Z - normal: Simulator: JS: keyCode: 40
+2019-03-07T03:13:17.841Z - normal: Simulator: JS: keyCode: 39
+2019-03-07T03:13:21.418Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2019-03-07T03:13:21.418Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 90
+2019-03-07T03:13:21.422Z - normal: Simulator: GC end ..., (Native -> JS map) count: 64
+2019-03-07T03:13:21.423Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 64
+2019-03-07T03:13:21.430Z - normal: Simulator: GC end ..., (Native -> JS map) count: 64
+2019-03-07T03:13:21.431Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 64
+2019-03-07T03:13:21.431Z - normal: Simulator: GC end ..., (Native -> JS map) count: 64
+2019-03-07T03:13:21.439Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2019-03-07T03:13:21.440Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2019-03-07T03:13:21.440Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2019-03-07T03:13:21.440Z - normal: Simulator: ScriptEngine::cleanup end ...
+2019-03-07T09:33:29.215Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:15)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:48:13
+2019-03-07T09:35:40.288Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:15)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:51:13
+2019-03-07T09:36:01.161Z - normal: Simulator: WORKAREA WIDTH 2048.00, HEIGHT 1038.00
+2019-03-07T09:36:01.162Z - normal: Simulator: FRAME SCALE = 0.75
+2019-03-07T09:36:01.170Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-03-07T09:36:01.247Z - normal: Simulator: 
+2019-03-07T09:36:01.247Z - normal: Simulator: {
+2019-03-07T09:36:01.247Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2019-03-07T09:36:01.247Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2019-03-07T09:36:01.247Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2019-03-07T09:36:01.248Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2019-03-07T09:36:01.248Z - normal: Simulator: 	gl.supports_PVRTC: false
+2019-03-07T09:36:01.248Z - normal: Simulator: 	gl.renderer: AMD Radeon Pro 570 OpenGL Engine
+2019-03-07T09:36:01.248Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2019-03-07T09:36:01.248Z - normal: Simulator: 	gl.max_texture_size: 16384
+2019-03-07T09:36:01.249Z - normal: Simulator: 	gl.supports_ETC1: false
+2019-03-07T09:36:01.252Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2019-03-07T09:36:01.252Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2019-03-07T09:36:01.252Z - normal: Simulator: 	gl.max_texture_units: 16
+2019-03-07T09:36:01.252Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2019-03-07T09:36:01.252Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2019-03-07T09:36:01.252Z - normal: Simulator: 	gl.supports_NPOT: true
+2019-03-07T09:36:01.252Z - normal: Simulator: 	gl.version: 2.1 ATI-1.68.21
+2019-03-07T09:36:01.252Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2019-03-07T09:36:01.253Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2019-03-07T09:36:01.253Z - normal: Simulator: }
+2019-03-07T09:36:01.253Z - normal: Simulator: 
+2019-03-07T09:36:01.253Z - normal: Simulator: 
+2019-03-07T09:36:01.253Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2019-03-07T09:36:01.266Z - normal: Simulator: Project Config:
+2019-03-07T09:36:01.266Z - normal: Simulator:     project dir: /Work/devTools/cocos2d-x-lite/simulator/mac/Simulator.app/Contents/Resources/
+2019-03-07T09:36:01.266Z - normal: Simulator:     writable path: $(PROJDIR)/
+2019-03-07T09:36:01.266Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2019-03-07T09:36:01.266Z - normal: Simulator:     frame size: 720 x 1280
+2019-03-07T09:36:01.267Z - normal: Simulator:     frame scale: 0.75
+2019-03-07T09:36:01.267Z - normal: Simulator:     show console: NO
+2019-03-07T09:36:01.267Z - normal: Simulator:     write debug log: NO ()
+2019-03-07T09:36:01.267Z - normal: Simulator:     listen: 
+2019-03-07T09:36:01.267Z - normal: Simulator:     debugger: none
+2019-03-07T09:36:01.267Z - normal: Simulator:     add searching path:
+2019-03-07T09:36:01.268Z - normal: Simulator: ------------------------------------------------
+2019-03-07T09:36:01.268Z - normal: Simulator: LOAD Js FILE: main.js
+2019-03-07T09:36:01.268Z - normal: Simulator: ------------------------------------------------
+2019-03-07T09:36:01.268Z - normal: Simulator: Initializing JavaScriptCore 
+2019-03-07T09:36:01.340Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2019-03-07T09:36:01.506Z - normal: Simulator: iShow!
+2019-03-07T09:36:01.650Z - normal: Simulator: ScriptEngine::runScript script ../../build/wechatgame/libs/weapp-adapter/window, buffer is empty!
+2019-03-07T09:36:01.651Z - normal: Simulator: [ERROR] Failed to invoke require, location: /Work/devTools/cocos2d-x-lite/cocos/scripting/js-bindings/manual/jsb_global.cpp:211
+2019-03-07T09:36:01.718Z - normal: Simulator: JS: InitScene: 2.1920000000000073ms
+2019-03-07T09:36:01.718Z - normal: Simulator: JS: AutoRelease: 0.09499999999997044ms
+2019-03-07T09:36:01.718Z - normal: Simulator: JS: Destroy: 0.05099999999998772ms
+2019-03-07T09:36:01.718Z - normal: Simulator: JS: AttachPersist: 0.0030000000000427463ms
+2019-03-07T09:36:01.752Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:36:01.752Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:36:01.752Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:36:01.759Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:36:01.821Z - normal: Simulator: JS: Activate: 103.67700000000002ms
+2019-03-07T09:36:03.354Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2019-03-07T09:36:03.355Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 88
+2019-03-07T09:36:03.360Z - normal: Simulator: GC end ..., (Native -> JS map) count: 67
+2019-03-07T09:36:03.360Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 67
+2019-03-07T09:36:03.365Z - normal: Simulator: GC end ..., (Native -> JS map) count: 67
+2019-03-07T09:36:03.365Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 67
+2019-03-07T09:36:03.369Z - normal: Simulator: GC end ..., (Native -> JS map) count: 67
+2019-03-07T09:36:03.378Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2019-03-07T09:36:03.378Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2019-03-07T09:36:03.378Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2019-03-07T09:36:03.379Z - normal: Simulator: ScriptEngine::cleanup end ...
+2019-03-07T09:36:06.813Z - normal: Simulator: WORKAREA WIDTH 2048.00, HEIGHT 1038.00
+2019-03-07T09:36:06.815Z - normal: Simulator: FRAME SCALE = 0.75
+2019-03-07T09:36:06.823Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-03-07T09:36:06.920Z - normal: Simulator: 
+2019-03-07T09:36:06.921Z - normal: Simulator: {
+2019-03-07T09:36:06.921Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2019-03-07T09:36:06.921Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2019-03-07T09:36:06.921Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2019-03-07T09:36:06.921Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2019-03-07T09:36:06.921Z - normal: Simulator: 	gl.supports_PVRTC: false
+2019-03-07T09:36:06.922Z - normal: Simulator: 	gl.renderer: AMD Radeon Pro 570 OpenGL Engine
+2019-03-07T09:36:06.922Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2019-03-07T09:36:06.922Z - normal: Simulator: 	gl.max_texture_size: 16384
+2019-03-07T09:36:06.922Z - normal: Simulator: 	gl.supports_ETC1: false
+2019-03-07T09:36:06.922Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2019-03-07T09:36:06.922Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2019-03-07T09:36:06.922Z - normal: Simulator: 	gl.max_texture_units: 16
+2019-03-07T09:36:06.923Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2019-03-07T09:36:06.923Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2019-03-07T09:36:06.923Z - normal: Simulator: 	gl.supports_NPOT: true
+2019-03-07T09:36:06.923Z - normal: Simulator: 	gl.version: 2.1 ATI-1.68.21
+2019-03-07T09:36:06.924Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2019-03-07T09:36:06.924Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2019-03-07T09:36:06.924Z - normal: Simulator: }
+2019-03-07T09:36:06.924Z - normal: Simulator: 
+2019-03-07T09:36:06.924Z - normal: Simulator: 
+2019-03-07T09:36:06.924Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2019-03-07T09:36:06.953Z - normal: Simulator: Project Config:
+2019-03-07T09:36:06.955Z - normal: Simulator:     project dir: /Work/devTools/cocos2d-x-lite/simulator/mac/Simulator.app/Contents/Resources/
+2019-03-07T09:36:06.956Z - normal: Simulator:     writable path: $(PROJDIR)/
+2019-03-07T09:36:06.957Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2019-03-07T09:36:06.957Z - normal: Simulator:     frame size: 720 x 1280
+2019-03-07T09:36:06.958Z - normal: Simulator:     frame scale: 0.75
+2019-03-07T09:36:06.960Z - normal: Simulator:     show console: NO
+2019-03-07T09:36:06.960Z - normal: Simulator:     write debug log: NO ()
+2019-03-07T09:36:06.961Z - normal: Simulator:     listen: 
+2019-03-07T09:36:06.961Z - normal: Simulator:     debugger: none
+2019-03-07T09:36:06.961Z - normal: Simulator:     add searching path:
+2019-03-07T09:36:06.971Z - normal: Simulator: ------------------------------------------------
+2019-03-07T09:36:06.971Z - normal: Simulator: LOAD Js FILE: main.js
+2019-03-07T09:36:06.971Z - normal: Simulator: ------------------------------------------------
+2019-03-07T09:36:06.971Z - normal: Simulator: Initializing JavaScriptCore 
+2019-03-07T09:36:07.061Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2019-03-07T09:36:07.228Z - normal: Simulator: iShow!
+2019-03-07T09:36:07.346Z - normal: Simulator: ScriptEngine::runScript script ../../build/wechatgame/libs/weapp-adapter/window, buffer is empty!
+2019-03-07T09:36:07.346Z - normal: Simulator: [ERROR] Failed to invoke require, location: /Work/devTools/cocos2d-x-lite/cocos/scripting/js-bindings/manual/jsb_global.cpp:211
+2019-03-07T09:36:07.385Z - normal: Simulator: JS: InitScene: 1.990000000000009ms
+2019-03-07T09:36:07.385Z - normal: Simulator: JS: AutoRelease: 0.10499999999996135ms
+2019-03-07T09:36:07.385Z - normal: Simulator: JS: Destroy: 0.047000000000025466ms
+2019-03-07T09:36:07.386Z - normal: Simulator: JS: AttachPersist: 0.004000000000019099ms
+2019-03-07T09:36:07.394Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:36:07.397Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:36:07.397Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:36:07.398Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:36:07.413Z - normal: Simulator: JS: Activate: 21.545999999999992ms
+2019-03-07T09:36:09.241Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2019-03-07T09:36:09.241Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 88
+2019-03-07T09:36:09.246Z - normal: Simulator: GC end ..., (Native -> JS map) count: 67
+2019-03-07T09:36:09.246Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 67
+2019-03-07T09:36:09.249Z - normal: Simulator: GC end ..., (Native -> JS map) count: 67
+2019-03-07T09:36:09.249Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 67
+2019-03-07T09:36:09.253Z - normal: Simulator: GC end ..., (Native -> JS map) count: 67
+2019-03-07T09:36:09.264Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2019-03-07T09:36:09.264Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2019-03-07T09:36:09.264Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2019-03-07T09:36:09.268Z - normal: Simulator: ScriptEngine::cleanup end ...
+2019-03-07T09:36:14.937Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:15)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:51:13
+2019-03-07T09:36:21.781Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:15)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:51:13
+2019-03-07T09:43:25.209Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:15)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:61:13
+2019-03-07T09:45:20.070Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:15)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:61:13
+2019-03-07T09:49:18.155Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:15)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:61:13
+2019-03-07T09:50:06.769Z - normal: connected!
+2019-03-07T09:50:09.754Z - warn: 会话不存在或已过期
+2019-03-07T09:50:10.752Z - normal: 1.9.1
+2019-03-07T09:50:11.008Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:15)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:61:13
+2019-03-07T09:56:00.686Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": false,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-07T09:56:00.705Z - normal: Building /Work/cccProj/Snake
+2019-03-07T09:56:00.705Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-07T09:56:01.104Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-07T09:56:20.035Z - normal: Compiled project javascript file successfully
+2019-03-07T09:56:20.036Z - error: Build Failed: Compile error: Cannot require '../../build/wechatgame/libs/weapp-adapter/window' from '/Work/cccProj/Snake/assets/Script'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:1514)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:191:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:191:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:191:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Async.series.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/builder.js:1:3101)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:726:13
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:264:21
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:723:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:167:37
+    at Gulp.doneCallback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/gulp-build.js:1:20524)
+    at Gulp.Orchestrator.stop (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/orchestrator/index.js:150:9)
+2019-03-07T09:56:56.431Z - normal: connected!
+2019-03-07T09:56:59.395Z - normal: 1.9.1
+2019-03-07T09:56:59.634Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:15)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:61:13
+2019-03-07T09:57:04.124Z - normal: Simulator: WORKAREA WIDTH 2048.00, HEIGHT 1038.00
+2019-03-07T09:57:04.140Z - normal: Simulator: FRAME SCALE = 0.75
+2019-03-07T09:57:04.151Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-03-07T09:57:04.230Z - normal: Simulator: 
+2019-03-07T09:57:04.231Z - normal: Simulator: {
+2019-03-07T09:57:04.231Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2019-03-07T09:57:04.231Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2019-03-07T09:57:04.231Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2019-03-07T09:57:04.231Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2019-03-07T09:57:04.232Z - normal: Simulator: 	gl.supports_PVRTC: false
+2019-03-07T09:57:04.232Z - normal: Simulator: 	gl.renderer: AMD Radeon Pro 570 OpenGL Engine
+2019-03-07T09:57:04.232Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2019-03-07T09:57:04.233Z - normal: Simulator: 	gl.max_texture_size: 16384
+2019-03-07T09:57:04.233Z - normal: Simulator: 	gl.supports_ETC1: false
+2019-03-07T09:57:04.233Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2019-03-07T09:57:04.233Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2019-03-07T09:57:04.233Z - normal: Simulator: 	gl.max_texture_units: 16
+2019-03-07T09:57:04.233Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2019-03-07T09:57:04.234Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2019-03-07T09:57:04.234Z - normal: Simulator: 	gl.supports_NPOT: true
+2019-03-07T09:57:04.234Z - normal: Simulator: 	gl.version: 2.1 ATI-1.68.21
+2019-03-07T09:57:04.234Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2019-03-07T09:57:04.235Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2019-03-07T09:57:04.235Z - normal: Simulator: }
+2019-03-07T09:57:04.235Z - normal: Simulator: 
+2019-03-07T09:57:04.235Z - normal: Simulator: 
+2019-03-07T09:57:04.235Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2019-03-07T09:57:04.276Z - normal: Simulator: Project Config:
+2019-03-07T09:57:04.276Z - normal: Simulator:     project dir: /Work/devTools/cocos2d-x-lite/simulator/mac/Simulator.app/Contents/Resources/
+2019-03-07T09:57:04.276Z - normal: Simulator:     writable path: $(PROJDIR)/
+2019-03-07T09:57:04.276Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2019-03-07T09:57:04.277Z - normal: Simulator:     frame size: 720 x 1280
+2019-03-07T09:57:04.277Z - normal: Simulator:     frame scale: 0.75
+2019-03-07T09:57:04.277Z - normal: Simulator:     show console: NO
+2019-03-07T09:57:04.277Z - normal: Simulator:     write debug log: NO ()
+2019-03-07T09:57:04.277Z - normal: Simulator:     listen: 
+2019-03-07T09:57:04.277Z - normal: Simulator:     debugger: none
+2019-03-07T09:57:04.277Z - normal: Simulator:     add searching path:
+2019-03-07T09:57:04.283Z - normal: Simulator: ------------------------------------------------
+2019-03-07T09:57:04.284Z - normal: Simulator: LOAD Js FILE: main.js
+2019-03-07T09:57:04.284Z - normal: Simulator: ------------------------------------------------
+2019-03-07T09:57:04.284Z - normal: Simulator: Initializing JavaScriptCore 
+2019-03-07T09:57:04.499Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2019-03-07T09:57:04.719Z - normal: Simulator: iShow!
+2019-03-07T09:57:04.821Z - normal: Simulator: ScriptEngine::runScript script ../../build/wechatgame/libs/weapp-adapter/window, buffer is empty!
+2019-03-07T09:57:04.821Z - normal: Simulator: [ERROR] Failed to invoke require, location: /Work/devTools/cocos2d-x-lite/cocos/scripting/js-bindings/manual/jsb_global.cpp:211
+2019-03-07T09:57:04.920Z - normal: Simulator: JS: InitScene: 12.520999999999958ms
+2019-03-07T09:57:04.920Z - normal: Simulator: JS: AutoRelease: 0.07400000000006912ms
+2019-03-07T09:57:04.920Z - normal: Simulator: JS: Destroy: 0.08100000000001728ms
+2019-03-07T09:57:04.920Z - normal: Simulator: JS: AttachPersist: 0.004000000000019099ms
+2019-03-07T09:57:04.985Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:57:04.988Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:57:04.993Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:57:04.994Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T09:57:05.014Z - normal: Simulator: JS: 获取排行榜数据。
+2019-03-07T09:57:05.015Z - normal: Simulator: JS: Activate: 95.23199999999997ms
+2019-03-07T09:57:05.054Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.054Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.054Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.054Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.055Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.055Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.055Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.085Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.086Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.086Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.086Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.086Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.087Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.087Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.100Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.100Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.100Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.100Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.100Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.101Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.101Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.116Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.116Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.116Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.116Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.117Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.117Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.117Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.132Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.133Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.133Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.133Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.135Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.135Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.136Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.148Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.149Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.149Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.149Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.149Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.149Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.149Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.165Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.165Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.166Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.166Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.166Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.166Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.166Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.182Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.183Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.183Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.183Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.183Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.183Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.183Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.199Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.199Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.199Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.200Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.200Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.200Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.200Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.216Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.216Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.217Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.218Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.218Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.218Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.219Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.233Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.233Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.233Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.234Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.235Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.235Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.235Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.250Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.250Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.250Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.250Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.250Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.250Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.251Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.267Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.267Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.267Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.267Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.267Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.268Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.268Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.282Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.283Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.283Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.283Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.283Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.283Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.284Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.300Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.300Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.300Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.300Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.301Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.301Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.301Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.315Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.316Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.316Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.316Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.317Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.317Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.317Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.332Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.333Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.333Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.333Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.334Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.335Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.335Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.349Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.349Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.350Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.350Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.350Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.351Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.351Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.366Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.366Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.366Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.366Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.366Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.367Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.367Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.382Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.384Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.384Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.384Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.384Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.386Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.386Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.400Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.400Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.400Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.401Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.401Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.401Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.401Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.416Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.416Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.416Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.416Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.416Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.416Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.417Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.432Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.433Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.433Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.433Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.433Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.433Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.434Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.449Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.449Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.449Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.450Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.450Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.450Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.450Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.466Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.466Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.467Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.467Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.467Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.467Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.467Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.482Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.482Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.482Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.482Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.485Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.485Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.485Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.499Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.499Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.499Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.500Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.500Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.500Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.500Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.516Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.516Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.517Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.517Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.517Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.518Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.518Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.533Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.533Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.533Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.533Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.533Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.534Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.534Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.549Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.549Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.549Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.549Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.550Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.550Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.550Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.566Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.567Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.567Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.567Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.567Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.568Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.568Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.584Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.584Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.584Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.584Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.585Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.585Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.585Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.599Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.601Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.601Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.601Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.601Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.601Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.602Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.617Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.617Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.617Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.617Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.617Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.618Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.618Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.633Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.633Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.634Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.634Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.634Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.634Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.635Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.650Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.650Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.650Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.651Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.651Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.651Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.651Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.666Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.666Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.666Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.666Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.667Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.667Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.667Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.683Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.683Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.684Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.684Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.684Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.684Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.684Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.700Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.700Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.700Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.701Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.701Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.702Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.702Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.717Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.717Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.717Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.717Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.717Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.718Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.718Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.732Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.733Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.733Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.733Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.733Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.733Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.733Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.751Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.751Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.751Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.752Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.752Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.752Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.752Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.768Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.768Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.768Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.768Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.769Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.769Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.769Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.783Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.783Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.784Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.784Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.784Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.784Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.784Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.802Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.803Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.803Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.804Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.804Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.804Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.804Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.817Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.818Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.818Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.818Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.818Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.818Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.818Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.834Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.834Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.835Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.835Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.836Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.836Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.836Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.850Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.851Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.851Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.851Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.851Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.851Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.853Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.866Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.866Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.866Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.866Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.866Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.867Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.867Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.883Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.883Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.883Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.884Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.884Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.884Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.884Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.901Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.901Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.901Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.901Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.902Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.903Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.903Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.916Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.916Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.916Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.916Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.917Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.917Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.917Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.933Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.933Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.933Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.933Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.934Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.934Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.934Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.950Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.950Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.950Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.950Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.951Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.951Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.951Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.967Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.968Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.968Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.968Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.968Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.968Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.968Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:05.983Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.985Z - normal: Simulator: STACK:
+2019-03-07T09:57:05.985Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:05.985Z - normal: Simulator: anonymous
+2019-03-07T09:57:05.986Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:05.986Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:05.986Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.001Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.001Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.001Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.001Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.002Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.002Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.002Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.017Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.017Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.017Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.017Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.017Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.018Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.018Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.033Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.033Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.034Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.034Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.034Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.034Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.034Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.050Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.050Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.050Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.051Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.051Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.051Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.051Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.067Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.067Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.067Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.067Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.068Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.068Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.068Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.083Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.083Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.083Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.083Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.083Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.084Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.084Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.098Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.099Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.099Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.099Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.099Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.101Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.102Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.116Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.117Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.117Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.117Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.117Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.117Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.117Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.134Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.134Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.134Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.134Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.134Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.135Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.135Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.150Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.150Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.151Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.151Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.151Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.151Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.152Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.167Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.167Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.167Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.167Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.168Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.168Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.168Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.183Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.184Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.184Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.184Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.184Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.185Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.185Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.200Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.200Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.201Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.201Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.201Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.201Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.201Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.215Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.217Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.217Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.218Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.218Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.218Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.218Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.234Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.235Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.235Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.235Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.235Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.236Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.236Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.250Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.250Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.250Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.250Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.251Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.251Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.251Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.267Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.267Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.267Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.267Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.268Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.268Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.268Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.283Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.283Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.284Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.284Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.284Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.284Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.284Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.299Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.300Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.300Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.300Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.300Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.300Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.300Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.317Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.317Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.317Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.318Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.318Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.318Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.318Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.333Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.333Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.334Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.334Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.334Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.334Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.334Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.347Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.348Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.348Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.348Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.350Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.351Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.351Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.367Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.367Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.367Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.367Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.368Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.368Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.368Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.383Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.384Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.384Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.384Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.384Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.384Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.384Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.401Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.401Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.401Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.401Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.401Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.402Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.402Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.417Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.417Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.417Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.417Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.417Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.417Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.418Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.433Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.433Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.434Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.434Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.434Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.434Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.434Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.450Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.450Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.450Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.451Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.451Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.451Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.452Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.467Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.467Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.468Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.469Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.469Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.469Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.469Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.482Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.482Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.483Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.483Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.483Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.483Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.483Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.501Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.502Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.502Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.502Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.502Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.502Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.502Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.516Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.517Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.517Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.517Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.517Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.517Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.518Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.534Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.534Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.534Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.534Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.534Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.535Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.535Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.550Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.551Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.551Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.551Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.551Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.551Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.551Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.564Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.564Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.566Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.567Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.567Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.567Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.567Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.581Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.583Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.583Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.584Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.584Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.584Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.584Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.597Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.598Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.598Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.598Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.598Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.601Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.601Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.617Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.617Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.617Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.617Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.617Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.617Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.618Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.630Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.630Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.631Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.631Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.631Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.631Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.631Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.648Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.650Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.650Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.650Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.651Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.651Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.651Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.667Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.667Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.667Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.668Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.668Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.668Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.668Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.683Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.684Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.684Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.684Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.684Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.684Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.684Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.698Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.698Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.698Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.698Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.698Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.698Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.699Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.714Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.714Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.714Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.717Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.717Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.717Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.717Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.731Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.731Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.731Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.731Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.732Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.732Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.732Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.750Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.751Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.751Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.751Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.751Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.751Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.751Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.767Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.768Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.768Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.768Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.768Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.768Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.768Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.783Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.784Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.784Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.784Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.784Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.784Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.785Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.797Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.798Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.798Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.798Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.798Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.798Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.798Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.817Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.818Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.818Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.818Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.819Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.819Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.820Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.834Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.834Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.835Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.835Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.835Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.835Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.835Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.847Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.847Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.848Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.848Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.848Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.848Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.848Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.867Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.867Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.867Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.867Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.868Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.868Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.868Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.882Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.882Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.883Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.885Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.885Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.886Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.886Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.898Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.898Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.898Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.901Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.901Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.901Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.901Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.917Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.918Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.918Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.918Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.918Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.918Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.918Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.934Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.934Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.935Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.935Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.935Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.936Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.936Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.949Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.949Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.949Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.952Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.952Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.952Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.952Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.965Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.965Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.965Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.965Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.965Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.965Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.965Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.983Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.983Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.983Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.984Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.984Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.984Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.984Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:06.998Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.998Z - normal: Simulator: STACK:
+2019-03-07T09:57:06.998Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:06.998Z - normal: Simulator: anonymous
+2019-03-07T09:57:06.998Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:06.999Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:06.999Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.017Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.018Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.018Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.018Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.018Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.018Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.018Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.034Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.034Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.034Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.034Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.034Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.035Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.035Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.048Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.048Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.048Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.048Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.048Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.048Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.049Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.067Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.068Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.068Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.068Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.068Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.068Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.068Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.084Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.084Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.084Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.085Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.085Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.085Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.085Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.097Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.098Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.098Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.098Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.098Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.098Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.098Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.115Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.118Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.118Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.118Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.119Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.119Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.119Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.134Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.134Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.134Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.135Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.135Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.135Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.135Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.150Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.151Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.151Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.151Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.151Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.151Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.151Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.164Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.165Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.165Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.165Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.165Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.165Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.165Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.181Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.182Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.185Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.185Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.185Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.185Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.185Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.197Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.198Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.198Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.198Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.198Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.198Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.198Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.215Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.215Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.215Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.216Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.216Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.216Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.216Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:07.231Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'window.sharedCanvas.width = 300'), location: assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.231Z - normal: Simulator: STACK:
+2019-03-07T09:57:07.231Z - normal: Simulator: start@assets/Script/GameOverCtrl.js:31:28
+2019-03-07T09:57:07.232Z - normal: Simulator: anonymous
+2019-03-07T09:57:07.232Z - normal: Simulator: invoke@src/jsb_polyfill.js:4610:23
+2019-03-07T09:57:07.232Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4750:35
+2019-03-07T09:57:07.232Z - normal: Simulator: callback@src/jsb_polyfill.js:25598:48
+2019-03-07T09:57:10.238Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2019-03-07T09:57:10.238Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 224
+2019-03-07T09:57:10.248Z - normal: Simulator: GC end ..., (Native -> JS map) count: 68
+2019-03-07T09:57:10.248Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 68
+2019-03-07T09:57:10.248Z - normal: Simulator: GC end ..., (Native -> JS map) count: 68
+2019-03-07T09:57:10.249Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 68
+2019-03-07T09:57:10.252Z - normal: Simulator: GC end ..., (Native -> JS map) count: 68
+2019-03-07T09:57:10.265Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2019-03-07T09:57:10.266Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2019-03-07T09:57:10.266Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2019-03-07T09:57:10.266Z - normal: Simulator: ScriptEngine::cleanup end ...
+2019-03-07T09:57:23.181Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": false,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-07T09:57:23.184Z - normal: Building /Work/cccProj/Snake
+2019-03-07T09:57:23.184Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-07T09:57:23.185Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-07T09:58:01.548Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1511
+2019-03-07T09:58:02.001Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1515
+2019-03-07T09:58:02.002Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1517
+2019-03-07T09:58:02.005Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1519
+2019-03-07T09:58:04.036Z - normal: Compiled project javascript file successfully
+2019-03-07T09:58:04.036Z - error: Build Failed: Compile error: Cannot require '../../build/wechatgame/libs/weapp-adapter/window' from '/Work/cccProj/Snake/assets/Script'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:1514)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:191:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:191:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:191:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Async.series.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/builder.js:1:3101)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:726:13
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:264:21
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:723:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:167:37
+    at Gulp.doneCallback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/gulp-build.js:1:20524)
+    at Gulp.Orchestrator.stop (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/orchestrator/index.js:150:9)
+2019-03-07T10:00:23.462Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": false,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-07T10:00:23.468Z - normal: Building /Work/cccProj/Snake
+2019-03-07T10:00:23.468Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-07T10:00:23.469Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-07T10:00:25.301Z - normal: Compiled project javascript file successfully
+2019-03-07T10:00:25.301Z - error: Build Failed: Compile error: Cannot require '../../build/wechatgame/libs/weapp-adapter/window' from '/Work/cccProj/Snake/assets/Script'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:1514)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:191:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:191:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:191:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Async.series.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/builder.js:1:3101)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:726:13
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:264:21
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:723:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:167:37
+    at Gulp.doneCallback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/gulp-build.js:1:20524)
+    at Gulp.Orchestrator.stop (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/orchestrator/index.js:150:9)
+2019-03-07T10:08:31.262Z - normal: Simulator: WORKAREA WIDTH 2048.00, HEIGHT 1038.00
+2019-03-07T10:08:31.275Z - normal: Simulator: FRAME SCALE = 0.75
+2019-03-07T10:08:31.289Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-03-07T10:08:31.364Z - normal: Simulator: 
+2019-03-07T10:08:31.365Z - normal: Simulator: {
+2019-03-07T10:08:31.365Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2019-03-07T10:08:31.365Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2019-03-07T10:08:31.365Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2019-03-07T10:08:31.365Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2019-03-07T10:08:31.365Z - normal: Simulator: 	gl.supports_PVRTC: false
+2019-03-07T10:08:31.365Z - normal: Simulator: 	gl.renderer: AMD Radeon Pro 570 OpenGL Engine
+2019-03-07T10:08:31.366Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2019-03-07T10:08:31.366Z - normal: Simulator: 	gl.max_texture_size: 16384
+2019-03-07T10:08:31.366Z - normal: Simulator: 	gl.supports_ETC1: false
+2019-03-07T10:08:31.366Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2019-03-07T10:08:31.366Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2019-03-07T10:08:31.366Z - normal: Simulator: 	gl.max_texture_units: 16
+2019-03-07T10:08:31.366Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2019-03-07T10:08:31.366Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2019-03-07T10:08:31.366Z - normal: Simulator: 	gl.supports_NPOT: true
+2019-03-07T10:08:31.367Z - normal: Simulator: 	gl.version: 2.1 ATI-1.68.21
+2019-03-07T10:08:31.367Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2019-03-07T10:08:31.367Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2019-03-07T10:08:31.367Z - normal: Simulator: }
+2019-03-07T10:08:31.367Z - normal: Simulator: 
+2019-03-07T10:08:31.367Z - normal: Simulator: 
+2019-03-07T10:08:31.368Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2019-03-07T10:08:31.404Z - normal: Simulator: Project Config:
+2019-03-07T10:08:31.404Z - normal: Simulator:     project dir: /Work/devTools/cocos2d-x-lite/simulator/mac/Simulator.app/Contents/Resources/
+2019-03-07T10:08:31.404Z - normal: Simulator:     writable path: $(PROJDIR)/
+2019-03-07T10:08:31.404Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2019-03-07T10:08:31.404Z - normal: Simulator:     frame size: 720 x 1280
+2019-03-07T10:08:31.405Z - normal: Simulator:     frame scale: 0.75
+2019-03-07T10:08:31.405Z - normal: Simulator:     show console: NO
+2019-03-07T10:08:31.405Z - normal: Simulator:     write debug log: NO ()
+2019-03-07T10:08:31.405Z - normal: Simulator:     listen: 
+2019-03-07T10:08:31.405Z - normal: Simulator:     debugger: none
+2019-03-07T10:08:31.405Z - normal: Simulator:     add searching path:
+2019-03-07T10:08:31.407Z - normal: Simulator: ------------------------------------------------
+2019-03-07T10:08:31.407Z - normal: Simulator: LOAD Js FILE: main.js
+2019-03-07T10:08:31.407Z - normal: Simulator: ------------------------------------------------
+2019-03-07T10:08:31.408Z - normal: Simulator: Initializing JavaScriptCore 
+2019-03-07T10:08:31.655Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2019-03-07T10:08:31.956Z - normal: Simulator: iShow!
+2019-03-07T10:08:32.087Z - normal: Simulator: ScriptEngine::runScript script ../../build/wechatgame/libs/weapp-adapter/window, buffer is empty!
+2019-03-07T10:08:32.087Z - normal: Simulator: [ERROR] Failed to invoke require, location: /Work/devTools/cocos2d-x-lite/cocos/scripting/js-bindings/manual/jsb_global.cpp:211
+2019-03-07T10:08:32.210Z - normal: Simulator: JS: InitScene: 21.295000000000073ms
+2019-03-07T10:08:32.210Z - normal: Simulator: JS: AutoRelease: 0.11700000000007549ms
+2019-03-07T10:08:32.210Z - normal: Simulator: JS: Destroy: 0.045999999999935426ms
+2019-03-07T10:08:32.210Z - normal: Simulator: JS: AttachPersist: 0.004000000000019099ms
+2019-03-07T10:08:32.242Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T10:08:32.244Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T10:08:32.245Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T10:08:32.247Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-03-07T10:08:32.269Z - normal: Simulator: JS: Activate: 54.900999999999954ms
+2019-03-07T10:08:33.080Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2019-03-07T10:08:33.080Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 85
+2019-03-07T10:08:33.090Z - normal: Simulator: GC end ..., (Native -> JS map) count: 63
+2019-03-07T10:08:33.090Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 63
+2019-03-07T10:08:33.090Z - normal: Simulator: GC end ..., (Native -> JS map) count: 63
+2019-03-07T10:08:33.090Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 63
+2019-03-07T10:08:33.093Z - normal: Simulator: GC end ..., (Native -> JS map) count: 63
+2019-03-07T10:08:33.108Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2019-03-07T10:08:33.108Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2019-03-07T10:08:33.108Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2019-03-07T10:08:33.109Z - normal: Simulator: ScriptEngine::cleanup end ...
+2019-03-07T10:08:34.698Z - normal: connected!
+2019-03-07T10:08:38.265Z - normal: 1.9.1
+2019-03-07T10:08:38.496Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:15)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:61:13
+2019-03-07T10:11:27.409Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:14)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:61:13
+2019-03-07T10:11:28.842Z - normal: connected!
+2019-03-07T10:11:31.654Z - normal: 1.9.1
+2019-03-07T10:11:31.870Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:14)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:61:13
+2019-03-07T10:11:48.003Z - normal: connected!
+2019-03-07T10:11:50.983Z - normal: 1.9.1
+2019-03-07T10:22:36.894Z - error: TypeError: a.project.save is not a function
+    at eval (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:18106)
+    at EventEmitter.ipcRenderer.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-03-07T10:22:38.830Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": false,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-07T10:22:38.832Z - normal: Building /Work/cccProj/Snake
+2019-03-07T10:22:38.832Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-07T10:22:38.833Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-07T10:22:59.618Z - normal: Compiled project javascript file successfully
+2019-03-07T10:22:59.618Z - normal: Start building assets
+2019-03-07T10:22:59.619Z - normal: Start spawn build-worker
+2019-03-07T10:23:00.183Z - normal: Finish spawn build-worker
+2019-03-07T10:23:00.183Z - normal: Start init build-worker
+2019-03-07T10:23:01.706Z - normal: 1.9.1
+2019-03-07T10:23:01.770Z - normal: Finish init build-worker
+2019-03-07T10:23:01.770Z - normal: Start build-assets in worker
+2019-03-07T10:23:02.126Z - normal: Finish build-assets in worker
+2019-03-07T10:23:02.128Z - normal: Finish building assets
+2019-03-07T10:23:02.133Z - normal: Start building raw assets
+2019-03-07T10:23:02.137Z - normal: Start building plugin scripts
+2019-03-07T10:23:02.193Z - normal: Finish building raw assets
+2019-03-07T10:23:02.214Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-07T10:23:02.303Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully
+2019-03-07T10:23:54.501Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": false,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-07T10:23:54.504Z - normal: Building /Work/cccProj/Snake
+2019-03-07T10:23:54.504Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-07T10:23:54.505Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-07T10:23:55.983Z - normal: Compiled project javascript file successfully
+2019-03-07T10:23:55.983Z - normal: Start building assets
+2019-03-07T10:23:55.983Z - normal: Start spawn build-worker
+2019-03-07T10:23:56.558Z - normal: Finish spawn build-worker
+2019-03-07T10:23:56.558Z - normal: Start init build-worker
+2019-03-07T10:23:58.090Z - normal: 1.9.1
+2019-03-07T10:23:58.158Z - normal: Finish init build-worker
+2019-03-07T10:23:58.158Z - normal: Start build-assets in worker
+2019-03-07T10:23:58.305Z - normal: Finish build-assets in worker
+2019-03-07T10:23:58.307Z - normal: Finish building assets
+2019-03-07T10:23:58.312Z - normal: Start building raw assets
+2019-03-07T10:23:58.312Z - normal: Start building plugin scripts
+2019-03-07T10:23:58.357Z - normal: Finish building raw assets
+2019-03-07T10:23:58.360Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-07T10:23:58.426Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully
+2019-03-07T10:30:15.696Z - failed: load script [../../build/wechatgame/libs/weapp-adapter/window] failed : Error: Cannot find module '../../build/wechatgame/libs/weapp-adapter/window'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:1:351
+    at __define (/Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:7:14)
+    at /Work/cccProj/Snake/temp/quick-scripts/assets/Script/GameTools.js:61:13
+2019-03-07T10:40:59.786Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:14928)
+    at EventEmitter.ipcRenderer.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-03-07T10:41:06.577Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:14928)
+    at EventEmitter.ipcRenderer.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-03-07T10:41:21.605Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": true,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-07T10:41:21.607Z - normal: Building /Work/cccProj/Snake
+2019-03-07T10:41:21.607Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-07T10:41:21.608Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-07T10:41:39.110Z - normal: Compiled project javascript file successfully
+2019-03-07T10:41:39.111Z - error: Build Failed: Compile error: Cannot require '../../build/wechatgame/libs/weapp-adapter/window' from '/Work/cccProj/Snake/assets/Script'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:1514)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:191:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:191:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:191:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at Async.series.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/builder.js:1:3101)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:726:13
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:264:21
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:723:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:167:37
+    at Gulp.doneCallback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/gulp-build.js:1:20524)
+    at Gulp.Orchestrator.stop (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/orchestrator/index.js:150:9)
+2019-03-07T10:42:02.115Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": true,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-07T10:42:02.125Z - normal: Building /Work/cccProj/Snake
+2019-03-07T10:42:02.125Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-07T10:42:02.126Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-07T10:42:03.620Z - normal: Compiled project javascript file successfully
+2019-03-07T10:42:03.620Z - normal: Start building assets
+2019-03-07T10:42:03.620Z - normal: Start spawn build-worker
+2019-03-07T10:42:04.232Z - normal: Finish spawn build-worker
+2019-03-07T10:42:04.232Z - normal: Start init build-worker
+2019-03-07T10:42:05.715Z - normal: 1.9.1
+2019-03-07T10:42:05.778Z - normal: Finish init build-worker
+2019-03-07T10:42:05.778Z - normal: Start build-assets in worker
+2019-03-07T10:42:05.980Z - normal: Finish build-assets in worker
+2019-03-07T10:42:05.983Z - normal: Finish building assets
+2019-03-07T10:42:05.987Z - normal: Start building raw assets
+2019-03-07T10:42:05.987Z - normal: Start building plugin scripts
+2019-03-07T10:42:06.023Z - normal: Finish building raw assets
+2019-03-07T10:42:06.027Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-07T10:42:06.096Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully
+2019-03-07T11:02:01.916Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": true,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-07T11:02:01.918Z - normal: Building /Work/cccProj/Snake
+2019-03-07T11:02:01.919Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-07T11:02:01.919Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-07T11:02:03.521Z - normal: Compiled project javascript file successfully
+2019-03-07T11:02:03.521Z - normal: Start building assets
+2019-03-07T11:02:03.521Z - normal: Start spawn build-worker
+2019-03-07T11:02:04.195Z - normal: Finish spawn build-worker
+2019-03-07T11:02:04.196Z - normal: Start init build-worker
+2019-03-07T11:02:05.807Z - normal: 1.9.1
+2019-03-07T11:02:05.868Z - normal: Finish init build-worker
+2019-03-07T11:02:05.869Z - normal: Start build-assets in worker
+2019-03-07T11:02:06.030Z - normal: Finish build-assets in worker
+2019-03-07T11:02:06.033Z - normal: Finish building assets
+2019-03-07T11:02:06.037Z - normal: Start building raw assets
+2019-03-07T11:02:06.038Z - normal: Start building plugin scripts
+2019-03-07T11:02:06.075Z - normal: Finish building raw assets
+2019-03-07T11:02:06.081Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-07T11:02:06.145Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully
+2019-03-08T07:10:39.490Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": true,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-08T07:10:39.499Z - normal: Building /Work/cccProj/Snake
+2019-03-08T07:10:39.500Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-08T07:10:39.500Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-08T07:10:58.190Z - normal: Compiled project javascript file successfully
+2019-03-08T07:10:58.191Z - normal: Start building assets
+2019-03-08T07:10:58.191Z - normal: Start spawn build-worker
+2019-03-08T07:10:58.750Z - normal: Finish spawn build-worker
+2019-03-08T07:10:58.750Z - normal: Start init build-worker
+2019-03-08T07:11:00.246Z - normal: 1.9.1
+2019-03-08T07:11:00.312Z - normal: Finish init build-worker
+2019-03-08T07:11:00.312Z - normal: Start build-assets in worker
+2019-03-08T07:11:00.484Z - normal: Finish build-assets in worker
+2019-03-08T07:11:00.487Z - normal: Finish building assets
+2019-03-08T07:11:00.492Z - normal: Start building raw assets
+2019-03-08T07:11:00.493Z - normal: Start building plugin scripts
+2019-03-08T07:11:00.556Z - normal: Finish building raw assets
+2019-03-08T07:11:00.559Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-08T07:11:00.648Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully
+2019-03-08T07:12:35.407Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:14928)
+    at EventEmitter.ipcRenderer.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-03-08T07:12:39.194Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": true,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-08T07:12:39.202Z - normal: Building /Work/cccProj/Snake
+2019-03-08T07:12:39.202Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-08T07:12:39.203Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-08T07:12:57.325Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:93588
+2019-03-08T07:12:58.670Z - normal: Compiled project javascript file successfully
+2019-03-08T07:12:58.671Z - normal: Start building assets
+2019-03-08T07:12:58.671Z - normal: Start spawn build-worker
+2019-03-08T07:12:59.199Z - normal: Finish spawn build-worker
+2019-03-08T07:12:59.199Z - normal: Start init build-worker
+2019-03-08T07:13:00.773Z - normal: 1.9.1
+2019-03-08T07:13:00.844Z - normal: Finish init build-worker
+2019-03-08T07:13:00.844Z - normal: Start build-assets in worker
+2019-03-08T07:13:01.004Z - normal: Finish build-assets in worker
+2019-03-08T07:13:01.006Z - normal: Finish building assets
+2019-03-08T07:13:01.010Z - normal: Start building raw assets
+2019-03-08T07:13:01.011Z - normal: Start building plugin scripts
+2019-03-08T07:13:01.056Z - normal: Finish building raw assets
+2019-03-08T07:13:01.059Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-08T07:13:01.124Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully
+2019-03-08T08:00:24.139Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": true,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-08T08:00:24.143Z - normal: Building /Work/cccProj/Snake
+2019-03-08T08:00:24.144Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-08T08:00:24.145Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-08T08:00:41.348Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:116785
+2019-03-08T08:00:42.661Z - normal: Compiled project javascript file successfully
+2019-03-08T08:00:42.661Z - normal: Start building assets
+2019-03-08T08:00:42.661Z - normal: Start spawn build-worker
+2019-03-08T08:00:43.190Z - normal: Finish spawn build-worker
+2019-03-08T08:00:43.190Z - normal: Start init build-worker
+2019-03-08T08:00:44.668Z - normal: 1.9.1
+2019-03-08T08:00:44.736Z - normal: Finish init build-worker
+2019-03-08T08:00:44.736Z - normal: Start build-assets in worker
+2019-03-08T08:00:44.901Z - normal: Finish build-assets in worker
+2019-03-08T08:00:44.904Z - normal: Finish building assets
+2019-03-08T08:00:44.908Z - normal: Start building raw assets
+2019-03-08T08:00:44.909Z - normal: Start building plugin scripts
+2019-03-08T08:00:44.958Z - normal: Finish building raw assets
+2019-03-08T08:00:44.960Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-08T08:00:45.026Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully
+2019-03-08T08:14:41.643Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": true,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-08T08:14:41.651Z - normal: Building /Work/cccProj/Snake
+2019-03-08T08:14:41.652Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-08T08:14:41.654Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-08T08:14:59.474Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:127459
+2019-03-08T08:15:00.776Z - normal: Compiled project javascript file successfully
+2019-03-08T08:15:00.776Z - normal: Start building assets
+2019-03-08T08:15:00.777Z - normal: Start spawn build-worker
+2019-03-08T08:15:01.330Z - normal: Finish spawn build-worker
+2019-03-08T08:15:01.330Z - normal: Start init build-worker
+2019-03-08T08:15:02.917Z - normal: 1.9.1
+2019-03-08T08:15:03.035Z - normal: Finish init build-worker
+2019-03-08T08:15:03.036Z - normal: Start build-assets in worker
+2019-03-08T08:15:03.206Z - normal: Finish build-assets in worker
+2019-03-08T08:15:03.208Z - normal: Finish building assets
+2019-03-08T08:15:03.213Z - normal: Start building raw assets
+2019-03-08T08:15:03.213Z - normal: Start building plugin scripts
+2019-03-08T08:15:03.260Z - normal: Finish building raw assets
+2019-03-08T08:15:03.263Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-08T08:15:03.343Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully
+2019-03-08T08:39:04.373Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": true,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-08T08:39:04.382Z - normal: Building /Work/cccProj/Snake
+2019-03-08T08:39:04.382Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-08T08:39:04.383Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-08T08:39:22.443Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:162249
+2019-03-08T08:39:24.087Z - normal: Compiled project javascript file successfully
+2019-03-08T08:39:24.087Z - normal: Start building assets
+2019-03-08T08:39:24.088Z - normal: Start spawn build-worker
+2019-03-08T08:39:24.620Z - normal: Finish spawn build-worker
+2019-03-08T08:39:24.620Z - normal: Start init build-worker
+2019-03-08T08:39:26.349Z - normal: 1.9.1
+2019-03-08T08:39:26.413Z - normal: Finish init build-worker
+2019-03-08T08:39:26.413Z - normal: Start build-assets in worker
+2019-03-08T08:39:26.690Z - normal: Finish build-assets in worker
+2019-03-08T08:39:26.694Z - normal: Finish building assets
+2019-03-08T08:39:26.698Z - normal: Start building raw assets
+2019-03-08T08:39:26.699Z - normal: Start building plugin scripts
+2019-03-08T08:39:26.736Z - normal: Finish building raw assets
+2019-03-08T08:39:26.738Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-08T08:39:26.801Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully
+2019-03-08T08:42:53.914Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": true,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-08T08:42:53.924Z - normal: Building /Work/cccProj/Snake
+2019-03-08T08:42:53.924Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-08T08:42:53.925Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-08T08:43:11.571Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:167264
+2019-03-08T08:43:12.835Z - normal: Compiled project javascript file successfully
+2019-03-08T08:43:12.835Z - normal: Start building assets
+2019-03-08T08:43:12.836Z - normal: Start spawn build-worker
+2019-03-08T08:43:13.389Z - normal: Finish spawn build-worker
+2019-03-08T08:43:13.389Z - normal: Start init build-worker
+2019-03-08T08:43:14.924Z - normal: 1.9.1
+2019-03-08T08:43:14.997Z - normal: Finish init build-worker
+2019-03-08T08:43:14.997Z - normal: Start build-assets in worker
+2019-03-08T08:43:15.206Z - normal: Finish build-assets in worker
+2019-03-08T08:43:15.208Z - normal: Finish building assets
+2019-03-08T08:43:15.212Z - normal: Start building raw assets
+2019-03-08T08:43:15.213Z - normal: Start building plugin scripts
+2019-03-08T08:43:15.259Z - normal: Finish building raw assets
+2019-03-08T08:43:15.261Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-08T08:43:15.333Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully
+2019-03-08T08:46:38.386Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Work/cccProj/Snake/build",
+  "debug": true,
+  "dest": "/Work/cccProj/Snake/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "427e76c7-e10f-4e94-9a70-2718013b0e8a"
+  ],
+  "sourceMaps": false,
+  "startScene": "427e76c7-e10f-4e94-9a70-2718013b0e8a",
+  "template": "link",
+  "title": "snake",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxaf36dda7e72612e4",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "snakesub"
+  },
+  "xxteaKey": "4ccb9e8d-5dd2-46",
+  "zipCompressJs": true,
+  "project": "/Work/cccProj/Snake",
+  "projectName": "snake",
+  "debugBuildWorker": false
+}
+2019-03-08T08:46:38.395Z - normal: Building /Work/cccProj/Snake
+2019-03-08T08:46:38.395Z - normal: Destination /Work/cccProj/Snake/build/wechatgame
+2019-03-08T08:46:38.396Z - normal: Delete /Work/cccProj/Snake/build/wechatgame/**/*
+2019-03-08T08:46:56.644Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:172299
+2019-03-08T08:46:57.930Z - normal: Compiled project javascript file successfully
+2019-03-08T08:46:57.930Z - normal: Start building assets
+2019-03-08T08:46:57.930Z - normal: Start spawn build-worker
+2019-03-08T08:46:58.505Z - normal: Finish spawn build-worker
+2019-03-08T08:46:58.505Z - normal: Start init build-worker
+2019-03-08T08:47:00.020Z - normal: 1.9.1
+2019-03-08T08:47:00.085Z - normal: Finish init build-worker
+2019-03-08T08:47:00.085Z - normal: Start build-assets in worker
+2019-03-08T08:47:00.270Z - normal: Finish build-assets in worker
+2019-03-08T08:47:00.272Z - normal: Finish building assets
+2019-03-08T08:47:00.277Z - normal: Start building raw assets
+2019-03-08T08:47:00.278Z - normal: Start building plugin scripts
+2019-03-08T08:47:00.325Z - normal: Finish building raw assets
+2019-03-08T08:47:00.331Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-03-08T08:47:00.405Z - normal: Built to "/Work/cccProj/Snake/build/wechatgame" successfully

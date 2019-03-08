@@ -39,6 +39,8 @@ cc._RF.push(module, '838e9UjNJxCXoQvbLq+kKBb', 'GameCtrl', __filename);
  *  0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
  */
 
+var GameTools = require("./GameTools");
+
 cc.Class({
     extends: cc.Component,
 
@@ -204,12 +206,14 @@ cc.Class({
             _this2.draw(v, cc.Color.RED);
         });
 
-        this.scheduleOnce(function () {
-            _this2.overLayer.active = true;
-        }, 1);
-
         var best = cc.sys.localStorage.getItem("best_score");
         cc.sys.localStorage.setItem("best_score", this.s > best ? this.s : best);
+        GameTools.pushScore(this.s > best ? this.s : best);
+
+        this.scheduleOnce(function () {
+            _this2.overLayer.active = true;
+            _this2.overLayer.getComponent("GameOverCtrl").getRank();
+        }, 1);
     },
     addScore: function addScore(s) {
         this.s += s;
